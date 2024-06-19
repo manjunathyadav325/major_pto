@@ -1,0 +1,19 @@
+.registersuccess-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .registersuccess-heading {
+    font-size: 32px;
+    color: #ffb62f; /* Set color to yellow */
+    margin-bottom: 20px;
+  }
+  
+  .registersuccess-message {
+    font-size: 18px;
+    text-align: center;
+  }
+  
